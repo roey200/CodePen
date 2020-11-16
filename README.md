@@ -1,4 +1,4 @@
 CodePen created with React.
-Using CodeMirror and react-codemirror2 and react Hooks
+Using React Hooks, CodeMirror and react-codemirror2
 
 Live version : https://mass-codepen.herokuapp.com/
